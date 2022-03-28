@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">eugeniopresencial</string>
+    <string name="textGorjeta">Gorjeta</string>
+    <string name="textTotal">Total</string>
+    <string name="textValor" translatable="false">Valor</string>
+
+</resources>
